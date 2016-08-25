@@ -1,0 +1,6 @@
+name: ScallopLog
+version: "1.0.0"
+api: ["1.0.0"]
+author: Scallop
+description: ScallopLog
+main: cn.yescallop.scalloplog.ScallopLog
